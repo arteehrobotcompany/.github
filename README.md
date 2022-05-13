@@ -1,1 +1,0 @@
-# Arteeh Robot Company
