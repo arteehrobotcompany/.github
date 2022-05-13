@@ -1,2 +1,1 @@
-# .github
-ARC's GitHub page.
+# Arteeh Robot Company
